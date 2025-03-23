@@ -6,7 +6,7 @@ import pygame
 #inits pygame
 pygame.init()
 
-#creates a class named Player with pygame's sprite
+#creates a class named Player with pygame's sprite function
 class Player(pygame.sprite.Sprite):
     #inits the class
     def __init__(self, x, y, image_path, new_width, new_height):
