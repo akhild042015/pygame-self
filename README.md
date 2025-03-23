@@ -1,3 +1,5 @@
+# pygame-self
+
 How to run this code:
 Get an app called Python from https://www.python.org. Check the box that says "Add Python to PATH."
 Ensure pip is installed with this command (type on a terminal or IDE terminal): pip --version.
